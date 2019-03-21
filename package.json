@@ -1,0 +1,29 @@
+{
+  "name": "smooth-nav",
+  "version": "1.0.0",
+  "description": "Page Transitions using CSS animation classes",
+  "main": "smoothNav.js",
+  "scripts": {
+  },
+  "unpkg": "smoothNav.min.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ltchurch88t/Smooth-Nav.git"
+  },
+  "keywords": [
+    "transtitions",
+    "Framework",
+    "CSS",
+    "SCSS",
+    "js",
+    "javascript",
+    "animation",
+    "animations"
+  ],
+  "author": "ltchurch88t",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ltchurch88t/Smooth-Nav/issues"
+  },
+  "homepage": "https://github.com/ltchurch88t/Smooth-Nav"
+}
