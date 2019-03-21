@@ -5,7 +5,7 @@
   "main": "smoothNav.js",
   "scripts": {
   },
-  "unpkg": "smoothNav.min.js",
+  "unpkg": "smoothNav.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ltchurch88t/Smooth-Nav.git"
