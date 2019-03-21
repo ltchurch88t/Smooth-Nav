@@ -1,5 +1,5 @@
 {
-  "name": "smooth-nav",
+  "name": "smooth-nav-transitions",
   "version": "1.0.0",
   "description": "Page Transitions using CSS animation classes",
   "main": "smoothNav.js",
@@ -18,6 +18,8 @@
     "js",
     "javascript",
     "animation",
+    "nav",
+    "navigation",
     "animations"
   ],
   "author": "ltchurch88t",
